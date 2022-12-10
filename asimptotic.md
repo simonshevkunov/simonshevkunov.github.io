@@ -1,4 +1,6 @@
-<span style="color: #E5E4E4; font-family: Helvetica;">
+layout: page
+title: "Оценка сложности алгоритмов"
+permalink: simonshevkunov.github.io/asimptotic
 
 ### [Алгоритмы](README.md) / Оценка сложности алгоритмов
 
