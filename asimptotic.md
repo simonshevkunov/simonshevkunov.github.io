@@ -1,7 +1,3 @@
-layout: page
-title: "Оценка сложности алгоритмов"
-permalink: simonshevkunov.github.io/asimptotic
-
 ### [Алгоритмы](README.md) / Оценка сложности алгоритмов
 
 # **Оценка сложности алгоритмов**
