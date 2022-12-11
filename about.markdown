@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: О сайте
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Добро пожаловать!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Добро пожаловать на сайт моего проекта! Тут вы найдете разборы самых нужных алгоритмов олимпиадного программирования. Олимпиадные программисты ценятся везде как люди, способные написать изящное, оптимальное и всегда работающее решение. Знание базовых алгоритмов программисту так же полезно, как физику знать формулы. Приведенные ниже алгоритмы зачастую становятся основой решения задачи на многих олимпиадах. Но простое заучивание непонятного кода никак не способствует обучению, именно поэтому каждый алгоритм я попытался объяснить доступным языком на несложных примера. Придерживаясь этой же философии в написании кода я использовал язык Python, который свободен от непонятных новичку конструкций и синтаксиса.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+*Успехов в постижении олимпиадного программирования!*
